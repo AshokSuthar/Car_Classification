@@ -1,2 +1,9 @@
 ## Model Files
 Model/*
+.ipynb_checkpoints/*
+
+## Library Files
+fastai
+
+## Python
+.idea/*
